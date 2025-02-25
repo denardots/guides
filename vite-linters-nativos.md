@@ -29,7 +29,7 @@ Luego de haber instalado html-eslint, Stylelint y ESLint, debemos configurar Vit
   "scripts": {
     "lint:html": "eslint *.html",
     "lint:css": "stylelint public/**/*.css",
-    "lint:js": "eslint public/**/*.js",
+    "lint:js": "eslint src/**/*.js",
     "lint": "npm run lint:html && npm run lint:css && npm run lint:js",
   },
 ```

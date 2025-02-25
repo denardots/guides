@@ -84,7 +84,7 @@ Para desplegar nuestro proyecto en GitHub Pages debemos tener un proyecto creado
 
 9. Luego hacemos un commit y un push a nuestro repositorio remoto
 
-10. Listo, cuando escribmaos el sigueinte comando en la terminal se subirá nuestro proyecto a Github Pages
+10. Listo, cuando escribamos el siguiente comando en la terminal se subirá nuestro proyecto a Github Pages
 
 ```bash
   npm run build
