@@ -54,8 +54,6 @@ Para instalar ESLint es necesario tener un proyecto creado con Vite.
       "block-scoped-var": "error",
       // Regla para agregar camelCase en las variables
       "camelcase": "error",
-      // Regla para agregar capitalizaciones en los comentarios
-      "capitalized-comments": "error",
       // Regla para agregar this en los métodos de clases
       "class-methods-use-this": "error",
       // Regla para agregar un return en las funciones
