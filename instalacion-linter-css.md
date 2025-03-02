@@ -47,7 +47,9 @@ Para instalar Stylelint es necesario tener un proyecto creado con Vite.
       // Regla para evitar saltos de linea en las reglas especiales
       "at-rule-empty-line-before": "never",
       // Regla para evitar saltos de linea en las reglas clásicas
-      "rule-empty-line-before": "never"
+      "rule-empty-line-before": "never",
+      // Regla para agregar comillas en los nombres de las fuentes
+      "font-family-name-quotes": "always-unless-keyword"
     }
   };
 ```
