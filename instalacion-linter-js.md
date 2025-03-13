@@ -72,8 +72,6 @@ Para instalar ESLint es necesario tener un proyecto creado con Vite.
       "func-style": ["error", "declaration", {"allowArrowFunctions": true}],
       // Regla para agregar getter y setter de forma ordenada en las clases
       "grouped-accessor-pairs": ["error", "setBeforeGet"],
-      // Regla para evitar nombres de variables cortos
-      "id-length": ["error", {"min": 3}],
       // Regla para evitar variables declaradas pero no inicializadas
       "init-declarations": "error",
       // Regla para evitar mas de una clase por archivo
